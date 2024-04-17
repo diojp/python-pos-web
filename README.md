@@ -166,6 +166,6 @@ Acessando a API na porta padrão 5000
 
 ## Autores
 
-- [@Diego Magno Tavares da Silva](https://www.github.com/diojp)
-- [@Robson Vieira Cavalcante Júnior](https://www.github.com/diojp)
+- Diego Magno Tavares da Silva
+- Robson Vieira Cavalcante Júnior
 
